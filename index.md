@@ -6,3 +6,4 @@ In this sequence you'll learn all about exponential and linear trades, and the v
 
 1. [The Power of Exponentiation](efficiency-sequence/power-of-exponentiation.md)
 2. [Exponentiation Tradeoffs](efficiency-sequence/exponentiation-tradeoffs.md)
+3. [Payout Frequency](efficiency-sequence/payout-frequency/payout-frequency.md)
